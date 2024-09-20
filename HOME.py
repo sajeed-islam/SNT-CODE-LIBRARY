@@ -21,13 +21,12 @@ st.title("SNT Code Library Overview")
 
 
 st.header("""
-Version: 20 September 2024
+
 Authors: Mohamed Sillah Kanu, Sammy Oppong, Jaline Gerardin
+Version: 20 September 2024
 """)
 
 # Overview Section
-st.header("Overview")
-
 # Motivation Section
 st.subheader("Motivation")
 st.write("""
