@@ -43,26 +43,22 @@ r_code_shapefiles = """
 EXAMPLE 1: BASIC MAP OUTPUT
 ******************************************************************************************************
 ------------------------------------------------------------------------------------------------------
-# Install libraries
+# Step 1: Install libraries
 install.packages("sf")      # For handling shapefiles
 install.packages("ggplot2") # For visualization
 
-# Load necessary libraries
+# Step 2: Load necessary libraries
 library(sf)       # For spatial data handling
 library(ggplot2)  # For visualization
 
-### A.1.1 Import shapefiles
-
-# Read a shapefile from a local directory
+# Step 3: Read a shapefile from a local directory
 shapefile_path <- "/content/Chiefdom 2021.shp"
 shapefile_data <- st_read(shapefile_path)
 
-# Preview the shapefile data
+# Step 4: Preview the shapefile data
 print(head(shapefile_data))  # Shows the first few rows of the shapefile
 
-### A.1.4 Visualizing shapefiles and making basic maps
-
-# Plot the shapefile 
+# Step 5: Plot the shapefile 
 ggplot(data = shapefile_data) +
   geom_sf() +  # Plot the shapefile geometries
   labs(title = "Basic Shapefile Map") +
