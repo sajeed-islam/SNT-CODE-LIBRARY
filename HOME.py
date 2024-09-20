@@ -16,12 +16,15 @@ st.markdown(
 )
 
 
-st.write("""
+
+# Title of the app
+st.title("SNT Code Library Overview")
+
+
+st.subtitle("""
 Version: 20 September 2024
 Authors: Mohamed Sillah Kanu, Sammy Oppong, Jaline Gerardin
 """)
-# Title of the app
-st.title("SNT Code Library Overview")
 
 # Overview Section
 st.header("Overview")
