@@ -63,8 +63,11 @@ ggplot(data = shapefile_data) +
         axis.title = element_blank(),     # Remove axis titles
         axis.text = element_blank(),      # Remove axis text
         axis.ticks = element_blank())     # Remove axis ticks
-"""
-#EXAMPLE 2
+
+
+
+
+### EXAMPLE 2
 install.packages("sf")      # For handling shapefiles
 install.packages("ggplot2") # For visualization
 
