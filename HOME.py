@@ -6,8 +6,8 @@ st.markdown(
     <style>
     /* Modify sidebar text */
     .css-1d391kg .css-10trblm {
-        font-size: 25px;   /* Adjust the font size */
-        color: blue;       /* Change the text color */
+        font-size: 50px;   /* Adjust the font size */
+        color: black;       /* Change the text color */
         font-weight: bold; /* Make the text bold */
     }
     </style>
@@ -16,12 +16,11 @@ st.markdown(
 )
 
 
-
 # Title of the app
 st.title("SNT Code Library Overview")
 
 
-st.subtitle("""
+st.header("""
 Version: 20 September 2024
 Authors: Mohamed Sillah Kanu, Sammy Oppong, Jaline Gerardin
 """)
