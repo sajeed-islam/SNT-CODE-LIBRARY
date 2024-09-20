@@ -1,9 +1,11 @@
 
 import streamlit as st
 
-### Version: 11 September 2024
-### Authors: Mohamed Sillah Kanu, Sammy Oppong, Jaline Gerardin
-
+st.markdown( """ <style> /* Modify sidebar text */ .css-1d391kg .css-10trblm { font-size: 25px; /* Adjust the font size */ color: blue; /* Change the text color */ font-weight: bold; /* Make the text bold */ } </style> """, unsafe_allow_html=True )
+st.write("""
+Version: 20 September 2024
+Authors: Mohamed Sillah Kanu, Sammy Oppong, Jaline Gerardin
+""")
 # Title of the app
 st.title("SNT Code Library Overview")
 
