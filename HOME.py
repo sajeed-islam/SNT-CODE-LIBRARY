@@ -1,6 +1,9 @@
 
 import streamlit as st
 
+### Version: 11 September 2024
+### Authors: Mohamed Sillah Kanu, Sammy Oppong, Jaline Gerardin
+
 # Title of the app
 st.title("SNT Code Library Overview")
 
