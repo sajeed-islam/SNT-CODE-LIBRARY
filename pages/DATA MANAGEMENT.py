@@ -64,7 +64,35 @@ ggplot(data = shapefile_data) +
         axis.text = element_blank(),      # Remove axis text
         axis.ticks = element_blank())     # Remove axis ticks
 """
+#EXAMPLE 2
+install.packages("sf")      # For handling shapefiles
+install.packages("ggplot2") # For visualization
 
+# Load necessary libraries
+library(sf)       # For spatial data handling
+library(ggplot2)  # For visualization
+
+### A.1.1 Import shapefiles
+
+# Read a shapefile from a local directory
+shapefile_path <- "/content/Chiefdom 2021.shp"
+shapefile_data <- st_read(shapefile_path)
+
+# Preview the shapefile data
+print(head(shapefile_data))  # Shows the first few rows of the shapefile
+
+### A.1.4 Visualizing shapefiles and making basic maps
+
+# Plot the shapefile 
+ggplot(data = shapefile_data) +
+  geom_sf() +  # Plot the shapefile geometries
+  labs(title = "Basic Shapefile Map") +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),     # Remove grid lines
+        axis.title = element_blank(),     # Remove axis titles
+        axis.text = element_blank(),      # Remove axis text
+        axis.ticks = element_blank())     # Remove axis ticks
+"""
 python_code_shapefiles = """
 !pip install geopandas matplotlib
 
