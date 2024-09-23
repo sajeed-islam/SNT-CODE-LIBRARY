@@ -76,6 +76,7 @@ ggplot(data = shapefile_data) +
 EXAMPLE 2: DISPLAYING MAP WHEN THE VARIABLE OF INTEREST IS CATEGORICAL
 ******************************************************************************************************
 ------------------------------------------------------------------------------------------------------
+# Step 1: Install libraries
 install.packages("sf")      # For handling shapefiles
 install.packages("ggplot2") # For visualization
 
