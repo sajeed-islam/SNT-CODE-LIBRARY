@@ -215,30 +215,30 @@ explanation_python_health_facilities = """
 """
 
 # Sample images for different options
-sample_output_shapefiles_r = "https://github.com/mohamedsillahkanu/si/blob/99ccc5bd8425859a0a801f01ca713e36edbd0c21/MAP_R.png?raw=true"
-sample_output_shapefiles_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"
+sample_output_shapefiles_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_shapefiles_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_health_facilities_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_health_facilities_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true" 
+sample_output_health_facilities_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_health_facilities_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_routine_case_data_dhis2_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true" # Replace with actual image URL
-sample_output_routine_case_data_dhis2_python = "https://example.com/dhis2_image.png"  # Replace with actual image URL
+sample_output_routine_case_data_dhis2_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_routine_case_data_dhis2_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_DHS_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_DHS_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_DHS_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_DHS_Data_python = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_Climate_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_Climate_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_Climate_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_Climate_Data_python = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
 
-sample_output_LMIS_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_LMIS_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_LMIS_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_LMIS_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_Modeled_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_Modeled_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_Modeled_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_Modeled_Data_python = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_Population_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_Population_Data = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_Population_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_Population_Data =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
 # Display content based on selected options
 if data_option == 'Reporting Rate per Variable':
