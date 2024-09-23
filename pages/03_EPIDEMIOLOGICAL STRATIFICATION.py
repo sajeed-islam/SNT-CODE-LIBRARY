@@ -297,8 +297,8 @@ if data_option == 'Reporting Rate per Variable':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_shapefiles)
     elif content_option == 'Sample Output':
-        st.image(sample_output_shapefiles_r, caption="Sample output of the Shapefiles R code")
-        st.image(sample_output_shapefiles_python, caption="Sample output of the Shapefiles Python code")
+        st.image(sample_output_shapefiles_r, caption="Sample output of the Reporting Rate per Variable R code")
+        st.image(sample_output_shapefiles_python, caption="Sample output of the Reporting Rate per Variable Python code")
 
 elif data_option == 'Group and Merge data frame':
     st.subheader("Group and Merge data frame")
@@ -312,8 +312,8 @@ elif data_option == 'Group and Merge data frame':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Group and Merge data frame R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Group and Merge data frame Python code")
 
 elif data_option == 'Crude Incidence by Year':
     st.subheader("Crude Incidence by Year ")
@@ -327,8 +327,8 @@ elif data_option == 'Crude Incidence by Year':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Crude Incidence by Year R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Crude Incidence by Year Python code")
 
 
 elif data_option == 'Adjusted Incidence by Year':
@@ -343,8 +343,8 @@ elif data_option == 'Adjusted Incidence by Year':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Adjusted Incidence by Year R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Adjusted Incidence by Year Python code")
 
 elif data_option == 'Option to Select Incidence':
   
@@ -359,8 +359,8 @@ elif data_option == 'Option to Select Incidence':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Option to Select Incidence R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Option to Select Incidence Python code")
 
 elif data_option == 'Risk Categorization':
     st.subheader("Risk Categorization")
@@ -374,13 +374,13 @@ elif data_option == 'Risk Categorization':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Risk Categorization R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Risk Categorization Python code")
 
 
 
 elif data_option == 'Testing Positivity Rate':
-    st.subheader("Modeled Data Content")
+    st.subheader("Testing Positivity Rate")
     
     if content_option == 'See R Code':
         st.code(r_code_health_facilities, language='r')
@@ -391,7 +391,7 @@ elif data_option == 'Testing Positivity Rate':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Testing Positivity Rate R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Testing Positivity Rate Python code")
 
 # Add similar conditions for other data options if needed
