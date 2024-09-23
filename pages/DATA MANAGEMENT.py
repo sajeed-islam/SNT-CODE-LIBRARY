@@ -785,8 +785,192 @@ explanation_python_routine_case_data_dhis2 = """
 """
 #-------------------------------------------------------------------------------------------------------------------------------------
 
+explanation_r_DHS_Data = """
+# Start
 
 
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+
+explanation_python_DHS_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+
+#------------------------------------------------------------------------------------------------------------------------
+explanation_r_Climate_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+
+explanation_python_Climate_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+#------------------------------------------------------------------------------------------------------------------------------
+explanation_r_LMIS_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+
+explanation_python_LMIS_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+#--------------------------------------------------------------------------------------------------------------------------
+
+explanation_r_Modeled_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+
+explanation_python_Modeled_Data = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+#----------------------------------------------------------------------------------------------------------------------------------
 
 
 
