@@ -1112,7 +1112,7 @@ sample_output_Modeled_Data_r = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY
 sample_output_Modeled_Data_python = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"   # Replace with actual image URL
 
 sample_output_Population_Data_r = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"  # Replace with actual image URL
-sample_output_Population_Data = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"   # Replace with actual image URL
+sample_output_Population_Data_python = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"   # Replace with actual image URL
 
 # Display content based on selected options
 if data_option == 'Shapefiles':
@@ -1241,36 +1241,5 @@ elif data_option == 'Population Data':
     elif content_option == 'Sample Output':
         st.image(sample_output_Population_Data_r, caption="Sample output of the Population Data R code")
         st.image(sample_output_Population_Data_python, caption="Sample output of the Population Data Python code")
-
-# Add similar conditions for other data options if needed
-elif data_option == 'Routine case data from DHIS2':
-    st.subheader("Routine case data from DHIS2")
-    if content_option == 'Sample Output':
-        st.image(sample_output_dhis2, caption="Sample output of the Routine case data from DHIS2")
-
-elif data_option == 'DHS data':
-    st.subheader("DHS Data")
-    if content_option == 'Sample Output':
-        st.image(sample_output_dhs, caption="Sample output of the DHS data")
-
-elif data_option == 'Climate data':
-    st.subheader("Climate Data")
-    if content_option == 'Sample Output':
-        st.image(sample_output_climate, caption="Sample output of the Climate data")
-
-elif data_option == 'LMIS data':
-    st.subheader("LMIS Data")
-    if content_option == 'Sample Output':
-        st.image(sample_output_lmis, caption="Sample output of the LMIS data")
-
-elif data_option == 'Modeled data':
-    st.subheader("Modeled Data")
-    if content_option == 'Sample Output':
-        st.image(sample_output_modeled, caption="Sample output of the Modeled data")
-
-elif data_option == 'Population data':
-    st.subheader("Population Data")
-    if content_option == 'Sample Output':
-        st.image(sample_output_population, caption="Sample output of the Population data")
 
 
