@@ -275,8 +275,8 @@ if data_option == 'Access to Care':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_shapefiles)
     elif content_option == 'Sample Output':
-        st.image(sample_output_shapefiles_r, caption="Sample output of the Shapefiles R code")
-        st.image(sample_output_shapefiles_python, caption="Sample output of the Shapefiles Python code")
+        st.image(sample_output_shapefiles_r, caption="Sample output of the Access to Care R code")
+        st.image(sample_output_shapefiles_python, caption="Sample output of the Access to Care Python code")
 
 elif data_option == 'Seasonality':
     st.subheader("Seasonality")
