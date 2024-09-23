@@ -14,7 +14,7 @@ data_option = st.sidebar.selectbox(
         'Crude Incidence by Year',
         'Testing Positivity Rate',
         'Adjusted Incidence by Year',
-        'Option to select Incidence',
+        'Option to Select Incidence',
         'Risk Categorization'
         
     )
@@ -347,6 +347,7 @@ elif data_option == 'Adjusted Incidence by Year':
         st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
 
 elif data_option == 'Option to Select Incidence':
+  
     st.subheader("Option to Select Incidence")
     
     if content_option == 'See R Code':
