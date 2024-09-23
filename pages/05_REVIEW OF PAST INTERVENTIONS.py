@@ -328,7 +328,7 @@ elif data_option == 'SC (Seasonal Malaria Chemoprevention)':
         st.image(sample_output_health_facilities_r, caption="Sample output of the Seasonal Malaria Chemoprevention R code")
         st.image(sample_output_health_facilities_python, caption="Sample output of the Seasonal Malaria Chemoprevention Python code")
 
-elif data_option == 'Malaria Vacine':
+elif data_option == 'Malaria Vaccine':
     st.subheader("Malaria Vaccine")
     
     if content_option == 'See R Code':
