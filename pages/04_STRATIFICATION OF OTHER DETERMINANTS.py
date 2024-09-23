@@ -290,8 +290,8 @@ elif data_option == 'Seasonality':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Seasonality R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Seasonality Python code")
 
 elif data_option == 'Insecticide Resistance':
     st.subheader("Insecticide Resistance")
@@ -305,8 +305,8 @@ elif data_option == 'Insecticide Resistance':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Insecticide Resistance R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Insecticide Resistance Python code")
 
 
 elif data_option == 'Anti-Malaria Drug Resistance':
@@ -321,8 +321,8 @@ elif data_option == 'Anti-Malaria Drug Resistance':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Anti-Malaria Drug Resistance R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Anti-Malaria Drug Resistance Python code")
 
 
 # Add similar conditions for other data options if needed
