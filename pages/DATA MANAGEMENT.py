@@ -619,7 +619,7 @@ python_code_Population_Data = """
 
 # Explanations
 explanation_r_shapefiles = """
-
+# EXAMPLE 1: BASIC OUTPUT CODE EXPLANATION
 ### **1. Installing and Loading Libraries**
 
 - **Install Libraries**: The code starts by installing two libraries: `sf` for handling spatial data and `ggplot2` for visualization. These libraries are essential for reading and plotting shapefiles.
@@ -647,6 +647,27 @@ explanation_r_shapefiles = """
 - **Customize Appearance**: Further customization is done to remove grid lines, axis titles, axis labels, and axis ticks. This results in a map that focuses solely on the spatial features without additional elements that might clutter the visualization.
 
 In essence, this R code sets up an environment for spatial data analysis, imports a shapefile, and visualizes it using a clean and minimal map layout.
+
+#--------------------------------------------------------------------------------------------------------------
+# EXAMPLE 1: BASIC OUTPUT CODE EXPLANATION
+#--------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 """
 
 explanation_python_shapefiles = """
@@ -669,12 +690,28 @@ explanation_python_shapefiles = """
 8. **Show the Plot**: Render and display the plot so you can view the visual representation of the geospatial data. 
 
 """
-
+#-----------------------------------------------------------------------------------------------------------------------------
 explanation_r_health_facilities = """
-The R code demonstrates how to create a bar plot for Health Facilities data using the `ggplot2` library.
-1. `ggplot(df, aes(x = Facility, y = Cases, fill = Facility))` initializes the plot with data.
-2. `geom_bar(stat = 'identity')` adds bars to the plot.
-3. `labs()` adds labels and titles.
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
 """
 
 explanation_python_health_facilities = """
@@ -700,6 +737,67 @@ explanation_python_health_facilities = """
 # End  
 """
 
+#-----------------------------------------------------------------------------------------------------------------------------
+explanation_r_routine_case_data_dhis2 = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+
+explanation_python_routine_case_data_dhis2 = """
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
+"""
+#-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+#---------------------------------------------------------------------------------------------------------------------------
 # Sample images for different options
 sample_output_shapefiles_r = "https://github.com/mohamedsillahkanu/si/blob/99ccc5bd8425859a0a801f01ca713e36edbd0c21/MAP_R.png?raw=true"
 sample_output_shapefiles_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"
