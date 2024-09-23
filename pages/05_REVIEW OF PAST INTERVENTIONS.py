@@ -241,30 +241,30 @@ explanation_python_health_facilities = """
 """
 
 # Sample images for different options
-sample_output_shapefiles_r = "https://github.com/mohamedsillahkanu/si/blob/99ccc5bd8425859a0a801f01ca713e36edbd0c21/MAP_R.png?raw=true"
-sample_output_shapefiles_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"
+sample_output_shapefiles_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_shapefiles_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_health_facilities_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_health_facilities_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true" 
+sample_output_health_facilities_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_health_facilities_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_routine_case_data_dhis2_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true" # Replace with actual image URL
-sample_output_routine_case_data_dhis2_python = "https://example.com/dhis2_image.png"  # Replace with actual image URL
+sample_output_routine_case_data_dhis2_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_routine_case_data_dhis2_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_DHS_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_DHS_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_DHS_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_DHS_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_Climate_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_Climate_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_Climate_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_Climate_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
 
-sample_output_LMIS_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_LMIS_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_LMIS_Data_r = " "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_LMIS_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_Modeled_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_Modeled_Data_python = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_Modeled_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_Modeled_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
-sample_output_Population_Data_r = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
-sample_output_Population_Data = "https://github.com/mohamedsillahkanu/si/blob/d3705941c975aeab86e701d0d2093b38052a50e2/MAP_PYTHON.png?raw=true"  # Replace with actual image URL
+sample_output_Population_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_Population_Data =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
 # Display content based on selected options
 if data_option == 'EPI Coverage and Dropout Rate':
@@ -279,8 +279,8 @@ if data_option == 'EPI Coverage and Dropout Rate':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_shapefiles)
     elif content_option == 'Sample Output':
-        st.image(sample_output_shapefiles_r, caption="Sample output of the Shapefiles R code")
-        st.image(sample_output_shapefiles_python, caption="Sample output of the Shapefiles Python code")
+        st.image(sample_output_shapefiles_r, caption="Sample output of the EPI Coverage and Dropout Rate R code")
+        st.image(sample_output_shapefiles_python, caption="Sample output of the EPI Coverage and Dropout Rate R code")
 
 elif data_option == 'IPTp and ANC Coverage':
     st.subheader("IPTp and ANC Coverage")
@@ -294,8 +294,8 @@ elif data_option == 'IPTp and ANC Coverage':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the IPTp and ANC Coverage R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the IPTp and ANC Coverage Python code")
 
 elif data_option == 'PMC (Prevention of Malaria in Pregnancy)':
     st.subheader("PMC (Prevention of Malaria in Pregnancy")
@@ -309,8 +309,8 @@ elif data_option == 'PMC (Prevention of Malaria in Pregnancy)':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Prevention of Malaria in Pregnancy R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Prevention of Malaria in Pregnancy Python code")
 
 
 elif data_option == 'SC (Seasonal Malaria Chemoprevention)':
@@ -325,8 +325,8 @@ elif data_option == 'SC (Seasonal Malaria Chemoprevention)':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Seasonal Malaria Chemoprevention R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Seasonal Malaria Chemoprevention Python code")
 
 elif data_option == 'Malaria Vacinne':
     st.subheader("Malaria Vacinne")
@@ -340,8 +340,8 @@ elif data_option == 'Malaria Vacinne':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Malaria Vacinne R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Malaria Vacinne Python code")
 
 elif data_option == 'ITN Ownership, Access, Usage and Type':
     st.subheader("ITN Ownership, Access, Usage and Type")
@@ -355,8 +355,8 @@ elif data_option == 'ITN Ownership, Access, Usage and Type':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the ITN Ownership, Access, Usage and Type R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the ITN Ownership, Access, Usage and Type Python code")
 
 
 
@@ -372,8 +372,8 @@ elif data_option == 'IRS (Indoor Residual Spray)':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Indoor Residual Spray R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Indoor Residual Spray Python code")
 
 
 
@@ -389,8 +389,8 @@ elif data_option == 'LSM (Larval Source Management)':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Larval Source Management R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Larval Source Management Python code")
 
 
 
@@ -406,7 +406,7 @@ elif data_option == 'Assessing the Quality of Case Management':
     elif content_option == 'Explanation of Python Code':
         st.write(explanation_python_health_facilities)
     elif content_option == 'Sample Output':
-        st.image(sample_output_health_facilities_r, caption="Sample output of the Health Facilities R code")
-        st.image(sample_output_health_facilities_python, caption="Sample output of the Health Facilities Python code")
+        st.image(sample_output_health_facilities_r, caption="Sample output of the Assessing the Quality of Case Management R code")
+        st.image(sample_output_health_facilities_python, caption="Sample output of the Assessing the Quality of Case Management Python code")
 
 # Add similar conditions for other data options if needed
