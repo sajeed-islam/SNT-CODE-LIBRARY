@@ -202,7 +202,7 @@ python_code_health_facilities = """
 """
 
 #------------------------------------------------------------------------------------------------
-r_code_routine_case_data_dhis2 = """
+r_code_DHS_Data = """
 # Start
 
 
