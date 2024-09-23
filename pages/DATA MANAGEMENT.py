@@ -12,11 +12,11 @@ data_option = st.sidebar.selectbox(
         'Shapefiles',
         'Health Facilities',
         'Routine case data from DHIS2',
-        'DHS data',
-        'Climate data',
-        'LMIS data',
-        'Modeled data',
-        'Population data'
+        'DHS Data',
+        'Climate Data',
+        'LMIS Data',
+        'Modeled Data',
+        'Population Data'
     )
 )
 
