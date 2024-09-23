@@ -134,40 +134,69 @@ plt.show()
 """
 
 r_code_health_facilities = """
-# Example R code for Health Facilities
-# Load necessary libraries
-library(ggplot2)
+# Start
 
-# Sample data frame
-df <- data.frame(
-    Facility = c('Facility A', 'Facility B', 'Facility C'),
-    Cases = c(50, 100, 75)
-)
 
-# Plot the data
-ggplot(df, aes(x = Facility, y = Cases, fill = Facility)) +
-    geom_bar(stat = 'identity') +
-    labs(title = 'Health Facilities Cases') +
-    theme_minimal()
+
+
+
+
+
+
+
+
+
+
+
+# Code space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# End
 """
+# Start
 
-python_code_health_facilities = """
-import pandas as pd
-import matplotlib.pyplot as plt
 
-# Sample data frame
-df = pd.DataFrame({
-    'Facility': ['Facility A', 'Facility B', 'Facility C'],
-    'Cases': [50, 100, 75]
-})
 
-# Plot the data
-plt.figure(figsize=(8, 6))
-plt.bar(df['Facility'], df['Cases'], color='skyblue')
-plt.title('Health Facilities Cases')
-plt.xlabel('Facility')
-plt.ylabel('Cases')
-plt.show()
+
+
+
+
+
+
+
+
+
+
+# Code space
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# End
 """
 
 # Explanations
@@ -231,9 +260,26 @@ The R code demonstrates how to create a bar plot for Health Facilities data usin
 """
 
 explanation_python_health_facilities = """
-The Python code demonstrates how to create a bar plot for Health Facilities data using `matplotlib`.
-1. `plt.bar(df['Facility'], df['Cases'], color='skyblue')` creates the bar plot.
-2. `plt.title()`, `plt.xlabel()`, and `plt.ylabel()` add labels and title.
+# Start
+
+
+
+
+
+
+
+ # Space holder for explanation 
+
+
+
+
+
+
+
+
+
+
+# End  
 """
 
 # Sample images for different options
