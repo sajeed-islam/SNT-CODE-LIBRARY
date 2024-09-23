@@ -257,7 +257,7 @@ sample_output_Climate_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRAR
 sample_output_Climate_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
 
-sample_output_LMIS_Data_r = " "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
+sample_output_LMIS_Data_r = "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 sample_output_LMIS_Data_python =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
 
 sample_output_Modeled_Data_r =  "https://github.com/sajeed-islam/SNT-CODE-LIBRARY/blob/c4bb53b4a8ea48bbd23ea876dd77699a33623fb4/Blank imaGE.png?raw=true"
